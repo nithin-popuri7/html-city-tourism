@@ -1,5 +1,4 @@
 # html-city-tourism
-# html-city-tourism
 ### Ex-1
 #### Creating a html file to display the contents as seen in the following image.
 #### Program:
