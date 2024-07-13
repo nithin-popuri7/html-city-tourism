@@ -77,7 +77,8 @@
 </html>
 ```
 #### Output
-![Screenshot 2024-07-02 134519](https://github.com/ManojTella/html-city-tourism/assets/94883876/48b88671-5277-4e5d-b4f7-4952d2fcf276)
+![image](https://github.com/user-attachments/assets/50b5f6f8-b666-49b4-87b1-23f50ca67b83)
+
 #### Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
 
