@@ -77,7 +77,7 @@
 </html>
 ```
 #### Output
-![image](https://github.com/user-attachments/assets/50b5f6f8-b666-49b4-87b1-23f50ca67b83)
+![image](https://github.com/user-attachments/assets/86551288-b981-48b8-ac37-64f64e41926d)
 
 #### Result:
 Thus,Creating a html file to display the content in the above picture was executed successfully.
